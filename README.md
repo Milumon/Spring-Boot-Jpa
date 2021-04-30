@@ -1,7 +1,13 @@
-AUTOR:
+![work](img.jpg)
+
+
+
+AGREGAR AUTOR:
 
     {
-        "Nombre": "Miluska Mirella Romero Torres", 
+        "Nombre": "Miluska Mirella Romero Torres",
+        "Nombre": "Kerwin",
+        "Nombre": "Piero"
     }
 
 localhost:8073/api/author/ 
