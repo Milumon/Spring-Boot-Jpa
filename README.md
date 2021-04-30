@@ -1,8 +1,10 @@
-AGREGAR AUTOR:
+AUTOR:
 
     {
         "Nombre": "Miluska Mirella Romero Torres", 
     }
+
+localhost:8073/api/author/ 
 
 AGREGAR AUTOR:
 
@@ -12,6 +14,8 @@ AGREGAR AUTOR:
         "lastName": "Ventura",
         "biografy": "Arteaga"
     }
+    
+localhost:8073/api/author/ 
 
 AGREGAR LIBRO:
 
