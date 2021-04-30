@@ -15,7 +15,7 @@ AGREGAR AUTOR:
         "biografy": "Arteaga"
     }
     
-localhost:8073/api/author/ 
+localhost:8073/api/book/ 
 
 AGREGAR LIBRO:
 
